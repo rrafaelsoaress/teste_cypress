@@ -8,7 +8,7 @@ Escolhi efetuar algumas validações no site da PicPay, testes de front-end com 
 
 1- Clonar o projeto do Github
 ```
-git clone 
+git clone git@github.com:rrafaelsoaress/teste_cypress.git
 ```
 2- Instalar o NodeJs
 
